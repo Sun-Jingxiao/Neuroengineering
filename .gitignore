@@ -1,2 +1,5 @@
 spike\ sorting/waveforms.mat
 spike\ sorting/README.mlx
+BCI\ decoding/continuous1.mat
+BCI\ decoding/continuous2.mat
+BCI\ decoding/spikeCounts.mat
