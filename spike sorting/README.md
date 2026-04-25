@@ -1,6 +1,6 @@
 # spike sorting
 ## Definition and motivation of spike sorting
-During extracellular recording, a single electrode often picks up electrical signals from many nearby neurons. As a result, the recorded data typically contains multiple spike shapes, each corresponding to a different neuron. Since these neurons may have distinct functions, it’s important to separate and analyze them individually. ***Spike sorting*** refers to the process of using algorithms to automatically identify and distinguish spikes from different neurons in data recorded by one electrode.
+During extracellular recording, a single electrode often picks up electrical signals from many nearby neurons. As a result, the recorded data typically contains multiple spike shapes, each corresponding to a different neuron. Since these neurons may have distinct functions, it’s important to separate and analyze them individually. ***Spike sorting*** refers to the process of using algorithms to automatically identify spikes from different neurons in data recorded by one electrode.
 
 ## Key considerations for spike sorting
 Even though spike shapes from different neurons can look quite similar, several key factors help distinguish them: 
