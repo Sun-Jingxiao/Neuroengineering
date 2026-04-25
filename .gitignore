@@ -1,8 +1,7 @@
+**/.DS_Store
 **/*Chinese*
-spike\ sorting/waveforms.mat
+**/.mat
 spike\ sorting/README.mlx
 spike\ sorting/pca.m
-BCI\ decoding/continuous1.mat
-BCI\ decoding/continuous2.mat
-BCI\ decoding/spikeCounts.mat
 visual\ illusion/funcion_anatomy_of_visual_system.mlx
+neural\ and\ behavioral\ data\ analysis
